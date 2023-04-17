@@ -1,0 +1,10 @@
+jupyterlab==3.6.3
+matplotlib==3.7.1
+numpy==1.24.2
+Pillow==9.4.0
+PyMuPDF==1.21.1
+opencv-python==4.7.0.72
+torch==2.0.0
+torchvision==0.15.1
+transformers==4.26.1
+ipywidgets==8.0.6
